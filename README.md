@@ -10,6 +10,8 @@ Graduando em Engenharia de Software (3º semestre) com foco em **Desenvolvimento
 
 # Sobre mim
 
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ribeirorafa.dev)
+
 - 👨‍💻 Atualmente trabalhando como Autônomo e Consultor Técnico.
 - 📓 Aprofundando estudos em Arquitetura de Sistemas e Bancos de Dados.
 - ⚙️ Desenvolvendo projetos para alimentar meu Portfólio.
@@ -43,4 +45,3 @@ Graduando em Engenharia de Software (3º semestre) com foco em **Desenvolvimento
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelribeiroit)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5591984384525)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ribeirorafa.dev)
