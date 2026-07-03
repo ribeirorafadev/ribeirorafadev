@@ -10,7 +10,7 @@
   <em>Software Engineering Student • Java • Python • Javascript</em>
 </p>
 
-Graduando em Engenharia de Software (4º semestre), possuo exeperiência em Segurança da Informação e Infraestrutura, onde construí sólido conhecimento e certificações em **Cibersegurança e Redes (CyberOps, CCNA-1 e Cert.Br)**. 
+Graduando em **Engenharia de Software (4º semestre)**, possuo exeperiência em Segurança da Informação e Infraestrutura, onde construí sólido conhecimento e certificações em **Cibersegurança e Redes (CyberOps, CCNA-1 e Cert.Br)**. 
 
 **Certificações:** <p>
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ribeirorafa.dev)
