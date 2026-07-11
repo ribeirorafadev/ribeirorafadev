@@ -40,8 +40,8 @@ Graduando em **Engenharia de Software (4º semestre)**, possuo experiência em S
 # GitHub Estatísticas
 
 <p align="center">
-  <a href="https://github.com/ribeirorafadev">
-    <img height="141px" src="https://github-stats-extended.vercel.app/api/top-langs?username=ribeirorafadev&layout=compact&langs_count=4&theme=dark&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas" />
+  <a [href="https://github-stats-extended.vercel.app/api/top-langs?username=ribeirorafadev&layout=compact&langs_count=4&theme=dark"]>
+    <img height="141px" src="https://github-stats-extended.vercel.app/api/top-langs?username=ribeirorafadev&layout=compact&langs_count=4&theme=dark&custom_title=Linguagens%20Mais%20Usadas" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="141px" src="https://streak-stats.demolab.com/?user=ribeirorafadev&theme=dark&hide_border=false&locale=pt" alt="GitHub Streak" />
